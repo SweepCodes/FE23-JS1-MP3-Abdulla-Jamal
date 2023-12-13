@@ -35,7 +35,7 @@ form {
 }
 #result-container {
   display: flex;
-  justify-content: space-evenly
+  justify-content: space-evenly;
   gap: 1rem;
   flex-wrap: wrap;
   width: 90%;
